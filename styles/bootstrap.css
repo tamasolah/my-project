@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+.internal {
+  border: 1px solid;
+}
